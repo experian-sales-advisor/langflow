@@ -18,11 +18,6 @@
 <a href="https://huggingface.co/spaces/Logspace/Langflow"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg" alt="HuggingFace Spaces"></a>
 </p>
 
-<a href="https://github.com/logspace-ai/langflow">
-    <img width="100%" src="https://github.com/logspace-ai/langflow/blob/dev/img/langflow-demo.gif?raw=true"></a>
-
-<p>
-</p>
 
 # Table of Contents
 
